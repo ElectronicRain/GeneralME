@@ -62,7 +62,7 @@ python plot_best_confusion_matrix.py
 GeneralME/
 ├── __init__.py                 # Package initialization
 ├── main.py                     # Main training script
-├── model.py                    # FluidCNN v6 model definition
+├── model.py                    # GeneralME model definition
 ├── trainer.py                  # Trainer module
 ├── data_loader.py              # Data loading module
 ├── utils.py                    # Utility functions
@@ -75,4 +75,5 @@ GeneralME/
 ├── analyze_data_quality.py     # Data quality analysis script
 └── README.md                   # This documentation
 ```
+
 
