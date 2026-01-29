@@ -10,15 +10,6 @@ GeneralME is a deep learning-based 2D structured mesh quality assessment classif
 pip install torch numpy scikit-learn matplotlib seaborn scipy pandas
 ```
 
-## Data Format
-
-### Mesh Quality Assessment Metrics
-- **Skew Angle (theta)**: Key metric for mesh quality
-- **Cell Area (area)**
-- **Aspect Ratio**
-- **Deviation Angle**
-- **Edge Lengths and Edge Vectors**
-
 ## Training Configuration
 
 | Parameter | Default | Description |
@@ -84,3 +75,4 @@ GeneralME/
 ├── analyze_data_quality.py     # Data quality analysis script
 └── README.md                   # This documentation
 ```
+
