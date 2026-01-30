@@ -1,4 +1,4 @@
-# GeneralME - Mesh Quality Assessment Model
+# GeneralME - A generalizable classification network for structured mesh quality evaluation
 
 ## Project Overview
 
@@ -75,5 +75,6 @@ GeneralME/
 ├── analyze_data_quality.py     # Data quality analysis script
 └── README.md                   # This documentation
 ```
+
 
 
