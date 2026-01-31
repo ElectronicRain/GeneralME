@@ -6,7 +6,7 @@ GeneralME is a deep learning-based 2D structured mesh quality assessment classif
 
 ##
 
-![image](https://github.com/ElectronicRain/GeneralME/blob/main/model.png)
+![image]([https://github.com/ElectronicRain/GeneralME/blob/main/model.png](https://github.com/ElectronicRain/GeneralME/blob/main/model.png))
 
 ## Installation
 
@@ -79,6 +79,7 @@ GeneralME/
 ├── analyze_data_quality.py     # Data quality analysis script
 └── README.md                   # This documentation
 ```
+
 
 
 
