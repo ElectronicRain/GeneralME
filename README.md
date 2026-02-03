@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-GeneralME is a deep learning-based structured mesh quality classification model, specifically designed for evaluating mesh cell quality in Computational Fluid Dynamics (CFD). This project is trained and evaluated on the **NACA-Market dataset**. The datasets during the current study are available in https://github.com/
-chenxinhai1234/NACA-Market.
+GeneralME is a deep learning-based structured mesh quality classification model, specifically designed for evaluating mesh cell quality in Computational Fluid Dynamics (CFD). This project is trained and evaluated on the **NACA-Market dataset**. The datasets during the current study are available in https://github.com/chenxinhai1234/NACA-Market.
 
 ##
 
@@ -80,6 +79,7 @@ GeneralME/
 ├── analyze_data_quality.py     # Data quality analysis script
 └── README.md                   # This documentation
 ```
+
 
 
 
