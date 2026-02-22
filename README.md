@@ -1,4 +1,4 @@
-# GeneralME - A generalizable classification network for structured mesh quality evaluation
+# GeneralME -  generalizable mesh quality evaluation method using dual-branch networks
 
 ## About
 A generalizable mesh quality evaluator suitable for datasets of all sizes.
@@ -82,6 +82,7 @@ GeneralME/
 ├── analyze_data_quality.py     # Data quality analysis script
 └── README.md                   # This documentation
 ```
+
 
 
 
